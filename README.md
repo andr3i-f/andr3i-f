@@ -1,4 +1,4 @@
-My name is Andrei, and I am currently 19 yrs. old, and a freshman in college for software engineering. I'm interested in automation, scripting, problem-solving (which is basically coding), working with and manipualting data.
+My name is Andrei, and I am currently 19 yrs. old, and a freshman in college for software engineering. I'm interested in automation, scripting, problem-solving (which is basically coding), working with and manipulating data.
 
 I am fairly decent in Python.
 
